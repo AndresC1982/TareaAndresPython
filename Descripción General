@@ -1,0 +1,1 @@
+Utiliza diferentes requests para conectarse a la api de github, post para crear un repositorio, delete para borrar el mismo, get para obtener los commits de un repositorio específico y crear una gráfica con las estadísticas de cada commit
